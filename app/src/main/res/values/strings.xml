@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">i180849_i180553</string>
+    <string name="app_name">Musify</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="musify">Musify</string>
+    <string name="logo_desc">Logo</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="i_would_like_to_receive_your_newsletter_and_other_promotional_information">I would like to receive your newsletter and other promotional information</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="show">Show</string>
+    <string name="male_logo">male logo</string>
+    <string name="female_logo">female logo</string>
+    <string name="undefined_logo">undefined Logo</string>
 </resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137862524204",
+    "project_id": "musify-b4d7e",
+    "storage_bucket": "musify-b4d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137862524204:android:90985a94c72760b294d089",
+        "android_client_info": {
+          "package_name": "com.ass2.i180849_i180553"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137862524204-nnqj4t6bu9pe64qpt31vv6ifqd0lh6na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMoOBxTMB1VxHto2v7pMO39gZ9bCW4GWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137862524204-nnqj4t6bu9pe64qpt31vv6ifqd0lh6na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
